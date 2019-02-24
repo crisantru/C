@@ -1,6 +1,6 @@
 # Ejercicios en lenguaje C.
 
-> Contenido:
+> Descripción: Diferentes algoritmos en lenguaje C, contenido:
    - Estructura de datos basicas.
    - Listas
    - Pilas
